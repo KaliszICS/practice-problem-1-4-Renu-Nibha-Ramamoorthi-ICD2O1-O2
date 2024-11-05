@@ -15,7 +15,7 @@ def q3():
   print(Last_name, First_name) 
 def q4():
   #Write Assignment code here
-  student1 = input("Input a student: ") 
+  student1 = input("Input a student: ")
   student2 = input("Input another student: ") 
   print("Your students are", Student1, "and", student2) 
 #Comment Out the go below when you run your test cases.
