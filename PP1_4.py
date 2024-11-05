@@ -21,7 +21,4 @@ def q4():
 #Comment Out the go below when you run your test cases.
 #Do not comment it out when you want to run your code normally
 
-q1()
-q2()
-q3()
-q4()
+
